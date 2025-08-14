@@ -14,7 +14,7 @@ A simple two-page website for a fictional burger and cocktail restaurant.
   - `fries1.jpg`
   - `cocktail1.jpg`
 
----
+
 
 ## Features
 
@@ -24,8 +24,4 @@ A simple two-page website for a fictional burger and cocktail restaurant.
 - Responsive layout with CSS
 - All images stored in an organized folder
 
----
 
-## How to Use
-
-1. Clone the repository:
